@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Notera_PersonalUseOnly';
+   font-display: swap;
+   src: url('Notera_PersonalUseOnly/font.ttf');
+}
+@font-face {
+   font-family: 'Antonio-Light';
+   font-display: swap;
+   src: url('Antonio-Light/font.ttf');
+}
+@font-face {
+   font-family: 'calibril';
+   font-display: swap;
+   src: url('calibril/font.ttf');
+}
